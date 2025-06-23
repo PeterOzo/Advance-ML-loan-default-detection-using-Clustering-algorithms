@@ -5,7 +5,7 @@ This repository showcases a comprehensive unsupervised machine learning project 
 
 ## 🚀 Project Overview
 
-### Enhanced Business Framework:
+### Business Framework:
 
 **Business Question**: How can investment management firms leverage unsupervised clustering algorithms to segment their client base into distinct investor profiles based on risk tolerance, demographic characteristics, and financial status for improved portfolio allocation and personalized investment strategies?
 
