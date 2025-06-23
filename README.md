@@ -31,8 +31,6 @@ This repository showcases a comprehensive unsupervised machine learning project 
 ![image](https://github.com/user-attachments/assets/560f70c6-94c7-4b84-a690-9bef49b7213f)
 
 
-**[INSERT INVESTOR DATASET OVERVIEW VISUALIZATION HERE]**
-
 ### Comprehensive Variable Analysis:
 
 | Variable | Description | Range | Mean | Std Dev | Business Interpretation |
@@ -129,9 +127,6 @@ b = mean nearest-cluster distance (separation)
 
 ![image](https://github.com/user-attachments/assets/5fe3030c-57d8-4023-b048-ffff16a3a1ac)
 
-
-**[INSERT PCA VISUALIZATION OF INVESTOR DATA HERE]**
-
 #### Feature Loading Analysis:
 
 **Principal Component 1 (22.51% variance):**
@@ -152,7 +147,8 @@ b = mean nearest-cluster distance (separation)
 | **KIDS** | -0.283 | **Family burden** - Negative impact on resources |
 | **INCCL** | -0.210 | **Age-income trade-off** - Experience vs peak earning |
 
-**[INSERT PCA FEATURE LOADINGS VISUALIZATION HERE]**
+![image](https://github.com/user-attachments/assets/c3c98592-a9ba-4e13-a5b0-3a602fc7116c)
+
 
 #### Density Analysis for Method Selection:
 
@@ -167,7 +163,6 @@ Distance range: 0.5233
 ![image](https://github.com/user-attachments/assets/284ce326-7b04-428a-993e-650aaa5f84b2)
 
 
-**[INSERT PCA DENSITY MAPPING VISUALIZATION HERE]**
 
 **Method Selection Recommendation**: **K-Means**
 
@@ -180,7 +175,7 @@ Distance range: 0.5233
 
 ![image](https://github.com/user-attachments/assets/8051d6e8-1164-4f4d-aa8c-19f5366adaf4)
 
-**[INSERT DISTANCE DISTRIBUTION HISTOGRAM HERE]**
+
 
 ## 🌳 K-Means Clustering Implementation
 
@@ -195,7 +190,6 @@ Distance range: 0.5233
 
 ![image](https://github.com/user-attachments/assets/1be6379a-bff8-43e5-adc8-36d1cb92668d)
 
-**[INSERT K-MEANS ELBOW METHOD VISUALIZATION HERE]**
 
 #### Silhouette Score Validation:
 **Performance Assessment:**
@@ -206,7 +200,6 @@ Distance range: 0.5233
 
 ![image](https://github.com/user-attachments/assets/5f08404e-4e40-405c-ae45-feba1d26845f)
 
-**[INSERT K-MEANS SILHOUETTE SCORES VISUALIZATION HERE]**
 
 ### K-Means Clustering Results (K=4)
 
@@ -223,7 +216,6 @@ Distance range: 0.5233
 ![image](https://github.com/user-attachments/assets/4533edbe-4de8-4359-a61a-2f6182cf3c23)
 
 
-**[INSERT K-MEANS CLUSTER CENTERS VISUALIZATION HERE]**
 
 #### Detailed Cluster Analysis:
 
@@ -259,10 +251,8 @@ Distance range: 0.5233
 - **Investment Strategy**: Sophisticated wealth management with diversification
 - **Portfolio Recommendation**: 40% equities, 25% bonds, 25% alternatives, 10% private equity
 
+![image](https://github.com/user-attachments/assets/c72d4170-1aee-499f-af45-54fb880f0bdd)
 
-
-
-**[INSERT K-MEANS PAIRPLOT VISUALIZATION HERE]**
 
 ## 🔍 DBSCAN Clustering Implementation
 
@@ -277,7 +267,6 @@ Distance range: 0.5233
 
 ![image](https://github.com/user-attachments/assets/4881311b-316c-4337-8e62-025ae27c3647)
 
-**[INSERT K-DISTANCE GRAPH VISUALIZATION HERE]**
 
 #### Parameter Testing Results:
 
@@ -300,7 +289,6 @@ Distance range: 0.5233
 
 ![image](https://github.com/user-attachments/assets/56751118-9160-4b19-9515-1ab8fc2d2f6d)
 
-**[INSERT DBSCAN CLUSTER DISTRIBUTION VISUALIZATION HERE]**
 
 #### Micro-Cluster Analysis:
 
@@ -321,9 +309,6 @@ Distance range: 0.5233
 ![image](https://github.com/user-attachments/assets/9ba90233-eba6-430f-914f-e16a0e926686)
 
 
-
-**[INSERT DBSCAN DETAILED CLUSTER ANALYSIS HERE]**
-
 #### Specialized Profile Insights:
 
 **Cluster Uniformity Patterns:**
@@ -341,7 +326,6 @@ Distance range: 0.5233
 
 ![image](https://github.com/user-attachments/assets/737b6987-8fa0-4d61-890d-85bd0312e5ec)
 
-**[INSERT DBSCAN PAIRPLOT VISUALIZATION HERE]**
 
 ## 📊 Comprehensive Clustering Comparison
 
@@ -352,12 +336,6 @@ Distance range: 0.5233
 | **K-Means** | 0.128 | 4 | 100% (3,866) | **High** | ✅ **Primary Choice** |
 | **DBSCAN** | 0.329 | 14 | 2.35% (91) | **Limited** | 📊 **Analytical Insight** |
 
-
-  
-
-
-
-**[INSERT CLUSTERING COMPARISON VISUALIZATION HERE]**
 
 ### Strategic Business Evaluation:
 
