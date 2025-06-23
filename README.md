@@ -49,7 +49,7 @@ This repository showcases a comprehensive unsupervised machine learning project 
 | **NWCAT** | Net worth category | 1-5 | 2.98 | 1.46 | **Wealth accumulation** (1=Low, 5=High) |
 | **INCCL** | Income class | 1-5 | 3.67 | 1.18 | **Earning capacity** (1=Low, 5=High) |
 
-## 🔬 Part I: Theoretical Foundation (25%)
+## 🔬 Theoretical Foundation
 
 ### 1. Classification vs Clustering Distinction
 
@@ -115,7 +115,7 @@ b = mean nearest-cluster distance (separation)
 
 **Density Rationale**: Separates dense regions (core investors) from sparse regions (outliers).
 
-## 🎯 Part II: Computational Analysis (75%)
+## 🎯 Computational Analysis 
 
 ### Principal Component Analysis (PCA)
 
