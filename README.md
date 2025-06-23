@@ -1,4 +1,4 @@
-# Advanced Clustering Analysis for Financial Portfolio Management
+## Advanced Clustering Analysis for Financial Portfolio Management
 *Advanced Quantitative Methods and Machine Learning in Finance*
 
 This repository showcases a comprehensive unsupervised machine learning project focused on investor clustering for portfolio management optimization. The project demonstrates the practical application of advanced clustering algorithms to segment clients based on risk tolerance, demographic characteristics, and financial status, enabling personalized investment strategies and standardized portfolio management approaches.
