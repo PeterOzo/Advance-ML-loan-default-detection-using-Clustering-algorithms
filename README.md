@@ -219,6 +219,10 @@ Distance range: 0.5233
 | **2** | 991 | 25.6% | **Young Accumulators** | 1.90 | 2.52 | 3.38 | 1.42 | 2.76 |
 | **3** | 827 | 21.4% | **Affluent Investors** | 4.60 | 3.43 | 2.73 | 4.41 | 4.52 |
 
+
+![image](https://github.com/user-attachments/assets/4533edbe-4de8-4359-a61a-2f6182cf3c23)
+
+
 **[INSERT K-MEANS CLUSTER CENTERS VISUALIZATION HERE]**
 
 #### Detailed Cluster Analysis:
@@ -255,7 +259,7 @@ Distance range: 0.5233
 - **Investment Strategy**: Sophisticated wealth management with diversification
 - **Portfolio Recommendation**: 40% equities, 25% bonds, 25% alternatives, 10% private equity
 
-![image](https://github.com/user-attachments/assets/4533edbe-4de8-4359-a61a-2f6182cf3c23)
+
 
 
 **[INSERT K-MEANS PAIRPLOT VISUALIZATION HERE]**
@@ -310,6 +314,12 @@ Distance range: 0.5233
 | **9** | 5 | 5.0 (Senior) | 4.0 (Max) | 2.6 | 3.2 | **Risk-taking seniors** |
 
 
+![image](https://github.com/user-attachments/assets/5138e11c-2712-4045-8ee9-9c7e5a1358a8)
+
+![image](https://github.com/user-attachments/assets/b71f081f-5e58-43b3-885e-981359b88f89)
+
+![image](https://github.com/user-attachments/assets/9ba90233-eba6-430f-914f-e16a0e926686)
+
 
 
 **[INSERT DBSCAN DETAILED CLUSTER ANALYSIS HERE]**
@@ -344,11 +354,6 @@ Distance range: 0.5233
 
 
   
-![image](https://github.com/user-attachments/assets/5138e11c-2712-4045-8ee9-9c7e5a1358a8)
-
-![image](https://github.com/user-attachments/assets/b71f081f-5e58-43b3-885e-981359b88f89)
-
-![image](https://github.com/user-attachments/assets/9ba90233-eba6-430f-914f-e16a0e926686)
 
 
 
